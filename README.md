@@ -1,4 +1,5 @@
 # Useful-sites
+* [NUnit Snippets] - NUnit Snippets
 * [Defaulticon] - Простые иконки
 * [Fontsquirrel] - Много полезных шрифтов + генератор
 * [Emmet syntax] - Emmet синтакс, actually
@@ -27,7 +28,7 @@
 * [Pxtoem] - converter
 * [Make sprite] - sprite generator + css
 
-
+[NUnit Snippets]: <https://github.com/PiotrPerak/NUnit.Snippets/>
 [Defaulticon]: <http://www.defaulticon.com/>
 [Fontsquirrel]: <https://www.fontsquirrel.com/>
 [Emmet syntax]: <http://docs.emmet.io/cheat-sheet/>
