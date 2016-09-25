@@ -57,7 +57,7 @@
 [Pxtoem]: <http://pxtoem.com/>
 [Make sprite]: <http://spritepad.wearekiss.com/#>
 <ul>
-	<li><a href="http://codepen.io/anon/pen/yarAOr?editors=1100" target="_blank">codepen.io</a> Frosted glass effect</li>
+	<li><a href="http://codepen.io/anon/pen/yarAOr?editors=1100" target="_blank">codepen.io</a> - Frosted glass effect</li>
 	<li><a href="http://ru.wordpress.org" target="_blank">ru.wordpress.org</a> - Собственной персоной</li>
 	<li><a href="http://fontweb.ru" target="_blank">fontweb.ru</a> - Шриты для веб-дизайна и верстки</li>
 	<li><a href="http://elementary.io" target="_blank">elementary.io</a> - Спасибо за логотип :)</li>
