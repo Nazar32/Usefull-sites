@@ -27,7 +27,7 @@
 * [Subtlepatterns] - Simple background
 * [Pxtoem] - converter
 * [Make sprite] - sprite generator + css
-
+[Frosted glass effect]: <http://codepen.io/anon/pen/yarAOr?editors=1100>
 [NUnit Snippets]: <https://github.com/PiotrPerak/NUnit.Snippets/>
 [Defaulticon]: <http://www.defaulticon.com/>
 [Fontsquirrel]: <https://www.fontsquirrel.com/>
